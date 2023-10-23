@@ -1,3 +1,3 @@
-# Vanilla JavaScript Todo App
+# Phone book
 
-A simple vanilla JavaScript todo app with basic CRUD functionality.
+to start watch package.json
